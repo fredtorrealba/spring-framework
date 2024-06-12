@@ -4,7 +4,7 @@ plugins {
 	id "org.gradle.toolchains.foojay-resolver-convention" version "0.7.0"
 }
 
-include "spring-aop"
+include "spring-aogp"
 include "spring-aspects"
 include "spring-beans"
 include "spring-context"
